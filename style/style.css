@@ -1,0 +1,46 @@
+#gameBox{	
+	margin: 0 auto;
+}
+.button-group{
+	width: 322px;
+	margin: 0 auto;
+}
+button {    
+	width: 100px;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: #4CAF50; /* Green */
+    opacity: 0.6;
+}
+.enabled{
+	opacity: 1;
+}
+canvas{
+	border:1px solid #ccc;
+	margin: 10px 0;	
+}
+
+.select-group{
+	width: 310px;
+	margin: 0 auto;	
+}
+body{
+    text-align: justify;
+    color: #333;
+}
+.text-center{
+    text-align: center;
+}
+
+.list-group{
+    width: 500px;
+    margin: 0 auto;
+}
